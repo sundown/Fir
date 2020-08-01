@@ -1,0 +1,17 @@
+{
+  "name": "fir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "main": "node ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "color-to-name": "1.1.0",
+    "discord.js": "12.2.0",
+    "ms": "2.1.2"
+  }
+}

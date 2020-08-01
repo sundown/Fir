@@ -1,0 +1,5 @@
+{
+  "token": "bot token",
+  "prefix": "prefix char/s",
+  "masters": ["array of ids"]
+}
